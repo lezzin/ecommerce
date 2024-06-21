@@ -1,0 +1,4 @@
+./system/*
+./tests/*
+./writable/*
+./public/upload
