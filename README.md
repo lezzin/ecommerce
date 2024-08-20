@@ -1,6 +1,10 @@
 <h1 align="center"> 🛍 <br> Ecommerce </h1>
 
-![Ecommerce](https://github.com/user-attachments/assets/cad2e5bd-8ac8-469b-aea8-af174fff0aaa)
+![Ecommerce](https://github.com/user-attachments/assets/4932368f-6601-4438-b712-dd96700ea55c)
+
+---
+
+Plataforma Ecommerce para venda de roupas
 
 ## Requisitos de servidor
 
