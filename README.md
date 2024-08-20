@@ -36,3 +36,10 @@ Para configurar e iniciar o projeto, siga os passos abaixo:
 - Alternativamente, você pode criar o usuário administrador diretamente pelo gerenciador de banco de dados.
 
 Agora você pode acessar e gerenciar o projeto através do navegador.
+
+## Contato
+
+Você pode me encontrar nas seguintes redes sociais:
+
+[![Instagram](https://img.shields.io/badge/Instagram-0E6212?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandroadrian_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E6212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-adrian)
