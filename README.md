@@ -1,3 +1,7 @@
+<h1 align="center"> 🛍 <br> Ecommerce </h1>
+
+![Ecommerce](https://github.com/user-attachments/assets/cad2e5bd-8ac8-469b-aea8-af174fff0aaa)
+
 ## Requisitos de servidor
 
 Para rodar este projeto, você precisará de PHP na versão 8.1 ou superior, com as seguintes extensões instaladas e habilitadas:
